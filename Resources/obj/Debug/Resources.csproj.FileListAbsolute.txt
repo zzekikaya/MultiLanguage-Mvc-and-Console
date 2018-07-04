@@ -1,0 +1,7 @@
+C:\github\aspnet-mvc-internationalization-store-strings-in-database-or-xml\Resources\bin\Debug\Resources.xml
+C:\github\aspnet-mvc-internationalization-store-strings-in-database-or-xml\Resources\bin\Debug\Resources.dll
+C:\github\aspnet-mvc-internationalization-store-strings-in-database-or-xml\Resources\bin\Debug\Resources.pdb
+C:\github\aspnet-mvc-internationalization-store-strings-in-database-or-xml\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\github\aspnet-mvc-internationalization-store-strings-in-database-or-xml\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\github\aspnet-mvc-internationalization-store-strings-in-database-or-xml\Resources\obj\Debug\Resources.dll
+C:\github\aspnet-mvc-internationalization-store-strings-in-database-or-xml\Resources\obj\Debug\Resources.pdb
